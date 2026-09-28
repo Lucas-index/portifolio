@@ -50,7 +50,7 @@ window.addEventListener("scroll", () => {
 
 // Typing animation
 const typingText = document.querySelector(".typing-text")
-const texts = ["Desenvolvedor Web", "Estudante de TI", "Designer UX/UI", "Jovem Inovador"]
+const texts = ["Desenvolvedor  de sistemas", "Estudante de TI", "Backend Developer", "Developer PHP"]
 let textIndex = 0
 let charIndex = 0
 let isDeleting = false
